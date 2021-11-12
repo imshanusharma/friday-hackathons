@@ -1,2 +1,2 @@
-# friday-hackathons
-Solution to Friday hackathons
+# Friday Hackathons
+Solution to coding questions of Friday hackathons  
